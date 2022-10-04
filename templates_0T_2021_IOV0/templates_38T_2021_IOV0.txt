@@ -1,0 +1,23 @@
+2021 Startup [LAs], L1@150V, L2new@300V, R1@350V
+
+
+BPix map
+
+Layer 1, Modules 1-8, 0.11496
+Layer 2, Modules 1-4, 0.0679
+Layer 2, Modules 5-8, 0.0679
+Layer 2, New Modules, 0.07738
+Layer 3, Modules 1-4, 0.0773
+Layer 3, Modules 5-8, 0.0818
+Layer 4, Modules 1-4, 0.0788
+Layer 4, Modules 5-8, 0.0827
+    
+FPix
+
+Ring 2, Panel 1, 0.0755
+Ring 2, Panel 2, 0.0716
+Ring 1, Panel 1, 0.0720
+Ring 1, Panel 2, 0.0697
+
+
+
